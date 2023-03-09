@@ -4,6 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily:{
+        'material-icons': ['Material Icons'],
         'title':['Poppins', 'sans-serif'],
         'body':['Poppins', 'sans-serif']
       },
